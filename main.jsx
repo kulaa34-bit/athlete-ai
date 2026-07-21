@@ -1,6 +1,6 @@
 import React from 'react';
 import { createRoot } from 'react-dom/client';
-import App from './App.jsx';
+import App from './AthleteAI.jsx';
 
 // ── Supabase init ──────────────────────────────────────────────
 // Set VITE_SUPABASE_URL and VITE_SUPABASE_ANON_KEY in Netlify env vars
